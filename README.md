@@ -1,5 +1,5 @@
 # Boulder Blast
-Boulder Blast is a simple grapic based inspired by the Mario
+Boulder Blast is a simple grapic based inspired by the Mario Bros. games
 
 In this game, a player must collect all the jewels in each level to advance to the next.
 In each level, power-ups such as extra life, extra health, and extra ammo will be provided that must be collected to help get
